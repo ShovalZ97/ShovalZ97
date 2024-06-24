@@ -15,8 +15,10 @@
 
 ## GitHub Stats
 
-![Yair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShovalZ97&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShovalZ97&theme=radical)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShovalZ97&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovalZ97&theme=radical" />
+</div>
 
 ---
 
@@ -31,6 +33,7 @@
 ---
 
 Thank you for visiting my profile!
+
 
 <!--
 **ShovalZ97/ShovalZ97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
